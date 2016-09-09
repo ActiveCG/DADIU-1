@@ -28,7 +28,7 @@ MonoBehaviour:
         ObjectType: 3
       ID: -1113339503
       Guid: 2726aeb3d4f9d84491bb90a58d92d05e
-      maxAttenuation: 0
+      maxAttenuation: 50
     - Name: Piglet_Scream
       Path: Default Work Unit\Piglet_Scream
       PathAndIcons:
